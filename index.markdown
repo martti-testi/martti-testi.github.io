@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Jatkuvan oppimisen julkaisualustan demo-sivut
 
 ## Julkaisut
 ---
