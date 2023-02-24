@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jatkuvan oppimisen julkaisualusta
+title: About
 permalink: /about/
 ---
 
