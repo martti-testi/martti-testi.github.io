@@ -4,8 +4,6 @@
 
 layout: default
 ---
-Jatkuvan oppimisen julkaisualustan demo-sivut
-
 ## Julkaisut
 ---
 ## Tapahtumat
