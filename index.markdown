@@ -4,6 +4,7 @@
 
 layout: default
 ---
+![Project sites backround image.](/assets/images/project-backround.PNG)
 ## Julkaisut
 ---
 ## Tapahtumat
