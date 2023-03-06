@@ -5,6 +5,12 @@
 layout: default
 ---
 ## Julkaisut
+| Julkaisu     | Linkki julkaisuun |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
 ---
 ## Tapahtumat
 ---
