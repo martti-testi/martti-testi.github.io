@@ -1,6 +1,6 @@
 title: Projektien testisivusto
 description: Jatkuvan oppimisen julkaisualustan demo-sivut. Testaan tällä sivustolla GitHub pages käyttöä projektien julkaisussa.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
