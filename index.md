@@ -6,8 +6,8 @@ Jatkuvan oppisen alustalla tuotetut materiaalit ovat käytettävissä [Creative 
 
 | Julkaisu | Linkki julkaisuun |
 |----|----|
-| Tuotekehityksen Stage-Gate esimerkki  | [Tuotekehityksen Stage-Gate esimerkki](https://github.com/martti-testi/Tuotekehitys---Stage-Gate-esimerkki.git) |
-| Tuotekehityksen ROI-laskuri | [Tuotekehityksen ROI-laskuri](https://github.com/martti-testi/Tuotekehitys-ROI-tuotekehityslaskuri.git)|
+| Tuotekehityksen Stage-Gate esimerkki  | [Tuotekehityksen Stage-Gate esimerkki](https://github.com/SeAMK-alykkaat-teknologiat/Tuotekehitys-Stage-Gate-esimerkki.git) |
+| Tuotekehityksen ROI-laskuri | [Tuotekehityksen ROI-laskuri](https://github.com/SeAMK-alykkaat-teknologiat/Tuotekehitys-ROI-tuotekehityslaskuri.git)|
 
 
 
