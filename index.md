@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Rahoittajien logot](/assets/images/logo-esr-vipu-ely-seamk.PNG)
 Jatkuvan oppisen alustalla tuotetut materiaalit ovat käytettävissä [Creative Commons BY 4.0 -lisenssillä.](https://creativecommons.org/licenses/by/4.0/legalcode.fi)
 ## Julkaisut
 
