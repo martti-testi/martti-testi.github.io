@@ -12,9 +12,3 @@ Jatkuvan oppisen alustalla tuotetut materiaalit ovat käytettävissä [Creative 
 | Tosipaikka hankkeen julkaisu esimerkkinä reposta joka on julkaistu eri tunnuksella/ organisaatiossa | [Tosipaikka hankkeen julkaisu (SeAMKin hanketoiminnan tuloksia, julkaistu GitHubissa SeAMKedu)](https://github.com/SeAMKedu/tosipaikka-indoor-positioning.git)|
 
 
-
-
-## Tapahtumat
----
-## Uutiset
-
